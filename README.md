@@ -1,0 +1,2 @@
+# Personal-Financial-Assistant
+Finance is an important aspect in managing personal credentials. Finance management plays an important role in everybody's personal and professional space. Once a person is equipped with decent job and has certain financial commitments fulfill it becomes necessary for him to maintain the finance properly. Thereby to attack and solve this problem we propose this project Personal Financial Assistant (PFA) which will perform and manage financial commitments income from inception to implementation.
